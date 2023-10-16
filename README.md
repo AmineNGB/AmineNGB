@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AmineNGB/AmineNGB/blob/main/ressources/falcon.jpeg" alt="Falcon logo" width="200" height="200">
+  <img src="https://github.com/AmineNGB/AmineNGB/blob/main/ressources/falcon.jpeg" alt="Falcon logo" height="200">
 </p>
 
 # Amine NEGHBEL
